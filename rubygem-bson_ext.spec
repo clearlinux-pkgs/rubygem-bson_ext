@@ -4,7 +4,7 @@
 #
 Name     : rubygem-bson_ext
 Version  : 1.12.3
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/bson_ext-1.12.3.gem
 Source0  : https://rubygems.org/downloads/bson_ext-1.12.3.gem
 Summary  : No detailed summary available
