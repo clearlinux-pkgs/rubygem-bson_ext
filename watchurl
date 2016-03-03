@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-03-03 21:42:32.807508
+# {'development', '>=1.3.0'}
+watchurl=https://rubygems.org/gems/bson_ext/versions/([0-9]+(\.[0-9]+)?(\.[0-9]+)?)
